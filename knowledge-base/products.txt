@@ -1,0 +1,35 @@
+TechStore Product Catalog
+
+TechStore sells laptops, smartphones, monitors, keyboards, mice, headphones, and other technology accessories.
+
+Laptop Pro 14
+Price: $999
+Description: A 14-inch laptop designed for general productivity, programming, and everyday use.
+
+Laptop Pro 16
+Price: $1299
+Description: A 16-inch laptop designed for productivity, programming, and multimedia work.
+
+TechPhone X
+Price: $699
+Description: A smartphone with a 6.5-inch display and 256 GB of storage.
+
+TechPhone Mini
+Price: $499
+Description: A compact smartphone with a 6.1-inch display and 128 GB of storage.
+
+TechMonitor 27
+Price: $299
+Description: A 27-inch monitor designed for office work, programming, and general multimedia use.
+
+TechKeyboard
+Price: $79
+Description: A wireless keyboard designed for everyday computer use.
+
+TechMouse
+Price: $49
+Description: A wireless mouse designed for everyday computer use.
+
+TechHeadphones
+Price: $129
+Description: Wireless headphones designed for music, calls, and general entertainment.

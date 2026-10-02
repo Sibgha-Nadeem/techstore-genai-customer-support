@@ -1,0 +1,17 @@
+TechStore Payment Methods
+
+TechStore accepts Visa and Mastercard debit or credit cards.
+
+TechStore also accepts PayPal for eligible orders.
+
+Customers must provide accurate billing information when placing an order.
+
+Payment is normally processed when an order is placed.
+
+If a payment fails, the customer should verify their payment details and try again.
+
+TechStore does not store customers' complete card numbers in its customer support system.
+
+Refunds are normally sent back to the original payment method used for the purchase.
+
+Customers should contact their bank or payment provider if a completed refund does not appear within the expected processing period.
